@@ -71,14 +71,6 @@ A Mobile application of EDC [Web Application](https://staging.study.talosix.com)
 
 
 ## Development Setup Guide
-### Setup
-1. Clone the `mobile_apps` repo
-    * ```git clone https://ghe.coxautoinc.com/Autotrader/mobile_apps.git```
-2. Navigate to the installed repository
-    * ```cd mobile_apps```
-3. Install flutter package dependencies
-    * ```flutter doctor```
-
 
 ### Running
 Run the app using ```flutter run``` command additionally you can specify the build mode with which 
@@ -167,12 +159,4 @@ When finish, you can see all the screenshots under `screenshot` folder
 ### [Application Layers](app_docs/App%20Architecture/application_layers.md)
 ### [Adding String Resources](app_docs/App%20Architecture/../App%20Architecture/adding_string_resources.md)
 ### [Creating Responsive Widgets](app_docs/App%20Architecture/../App%20Architecture/creating_responsive_widgets.md)
-
-
-## Application Architecture Decisions
-
-Text(AtcLanguage.NewScreen.title)
-
-Refer to this folder for past decisions about app functionality and architecture decisions.
-[Decisions](app_docs/Architecture%20Decisions/)
 
