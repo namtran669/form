@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "39207100584",
+    "project_id": "t6-mobile-edc",
+    "storage_bucket": "t6-mobile-edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39207100584:android:7a70a451f7cdc6630ca29d",
+        "android_client_info": {
+          "package_name": "t6.mobile.edc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39207100584-ru851jvm0mkctsst8hf3lt9eaq6iacps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "t6.mobile.edc",
+            "certificate_hash": "8f4748706e7b6315586096c4cba300cc5f9df763"
+          }
+        },
+        {
+          "client_id": "39207100584-924knrs98kl0b4gu6pboo65a19mq0k85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Jbk3Ncf1zrShMZmLs7zBZDjLZ3L6Vco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39207100584-924knrs98kl0b4gu6pboo65a19mq0k85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39207100584-4mk5q02aoshp72etc751fmm1rdgasgkk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "t6.mobile.edc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

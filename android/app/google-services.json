@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1003283085592",
+    "project_id": "talosix",
+    "storage_bucket": "talosix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003283085592:android:fdaee2b74a26ca3ab8466d",
+        "android_client_info": {
+          "package_name": "t6.mobile.talosix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003283085592-rpm4l02ho4dqocbb68pakqv77c5k3sol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEIi-JCBrXe6PC-P25dVsSY5I8dZohow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003283085592-rpm4l02ho4dqocbb68pakqv77c5k3sol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003283085592-0m1cag56enpu4m0ev7rm1vd3rmcjaa03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "t6.mobile.edc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

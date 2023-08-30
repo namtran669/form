@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_release">Talosix Dataflow</string>
+    <string name="app_name_staging">[STG] Talosix Dataflow</string>
+    <string name="app_name_dev">[DEV] Talosix Dataflow</string>
+    <string name="app_name_uat">[UAT] Talosix Dataflow</string>
+</resources>
